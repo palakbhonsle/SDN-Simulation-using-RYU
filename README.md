@@ -1,2 +1,3 @@
 # SDN-Simulation-using-RYU
-Emulate a functional SDN network using RYU Controller
+Emulated a functional SDN network using RYU Controller
+
